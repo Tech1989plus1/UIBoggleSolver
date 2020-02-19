@@ -1,7 +1,7 @@
 # UIBoggleSolver
 
-## Install
+#### Install
   npm i
 
-## Development
+#### Development
   npm run react-dev 
