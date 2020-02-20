@@ -4,4 +4,6 @@
   npm i
 
 #### Development
-  npm run react-dev 
+  npm run react-dev start
+
+#### Config
